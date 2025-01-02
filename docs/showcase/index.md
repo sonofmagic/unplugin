@@ -6,7 +6,7 @@ aside: false
 
 Here are a few unplugins maintained by the unplugin team, find more on [npm](https://www.npmjs.com/search?ranking=popularity&q=keywords%3Aunplugin).
 
-<Repositories />
+<!-- <Repositories /> -->
 
 ::: info Join us!
 

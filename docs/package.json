@@ -8,7 +8,7 @@
   "scripts": {
     "gen-files": "tsx ./.vitepress/data/gen-files.ts",
     "dev": "vitepress dev --open",
-    "build": "pnpm gen-files && vitepress build",
+    "build": "vitepress build",
     "lint": "case-police '**/*.md'",
     "typecheck": "vue-tsc --noEmit"
   },
